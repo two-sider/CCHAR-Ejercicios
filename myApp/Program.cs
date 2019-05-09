@@ -4,8 +4,7 @@ namespace myApp
 {
     class Program
     {
-        static void Main(string[] args)
-        {
+        static void Mayor_menor_edad(){
             int edad;
 
             while (true){
@@ -27,6 +26,11 @@ namespace myApp
                 break;
             }
             }
+
+        }
+        static void Main(string[] args)
+        {
+            Mayor_menor_edad();
 
 
         }
