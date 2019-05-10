@@ -1,0 +1,4 @@
+/home/erick/Escritorio/C#/myMLApp/myMLApp/obj/Debug/netcoreapp2.2/myMLApp.csprojAssemblyReference.cache
+/home/erick/Escritorio/C#/myMLApp/myMLApp/obj/Debug/netcoreapp2.2/myMLApp.csproj.CoreCompileInputs.cache
+/home/erick/Escritorio/C#/myMLApp/myMLApp/obj/Debug/netcoreapp2.2/myMLApp.AssemblyInfoInputs.cache
+/home/erick/Escritorio/C#/myMLApp/myMLApp/obj/Debug/netcoreapp2.2/myMLApp.AssemblyInfo.cs
