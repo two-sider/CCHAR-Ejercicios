@@ -1,0 +1,15 @@
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp/bin/Debug/netcoreapp2.1/MLModel.zip
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp/bin/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.deps.json
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp/bin/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.runtimeconfig.json
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp/bin/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.runtimeconfig.dev.json
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp/bin/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.dll
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp/bin/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.pdb
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp/bin/Debug/netcoreapp2.1/SampleBinaryClassification.Model.dll
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp/bin/Debug/netcoreapp2.1/SampleBinaryClassification.Model.pdb
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp/obj/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.csprojAssemblyReference.cache
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp/obj/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.csproj.CoreCompileInputs.cache
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp/obj/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.AssemblyInfoInputs.cache
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp/obj/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.AssemblyInfo.cs
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp/obj/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.csproj.CopyComplete
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp/obj/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.dll
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp/obj/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.pdb

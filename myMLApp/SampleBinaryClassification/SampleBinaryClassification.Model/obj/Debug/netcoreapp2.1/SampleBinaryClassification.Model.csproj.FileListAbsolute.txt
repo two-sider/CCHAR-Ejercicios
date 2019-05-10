@@ -1,0 +1,10 @@
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/bin/Debug/netcoreapp2.1/MLModel.zip
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/bin/Debug/netcoreapp2.1/SampleBinaryClassification.Model.deps.json
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/bin/Debug/netcoreapp2.1/SampleBinaryClassification.Model.dll
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/bin/Debug/netcoreapp2.1/SampleBinaryClassification.Model.pdb
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/SampleBinaryClassification.Model.csprojAssemblyReference.cache
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/SampleBinaryClassification.Model.csproj.CoreCompileInputs.cache
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/SampleBinaryClassification.Model.AssemblyInfoInputs.cache
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/SampleBinaryClassification.Model.AssemblyInfo.cs
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/SampleBinaryClassification.Model.dll
+/home/erick/Escritorio/C#/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/SampleBinaryClassification.Model.pdb
