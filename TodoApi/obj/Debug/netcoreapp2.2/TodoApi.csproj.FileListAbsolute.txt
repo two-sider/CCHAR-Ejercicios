@@ -1,0 +1,14 @@
+/home/erick/Escritorio/C#/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/home/erick/Escritorio/C#/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/home/erick/Escritorio/C#/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/home/erick/Escritorio/C#/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/home/erick/Escritorio/C#/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/home/erick/Escritorio/C#/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/home/erick/Escritorio/C#/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/home/erick/Escritorio/C#/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/home/erick/Escritorio/C#/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/home/erick/Escritorio/C#/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/home/erick/Escritorio/C#/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/home/erick/Escritorio/C#/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/home/erick/Escritorio/C#/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/home/erick/Escritorio/C#/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb
